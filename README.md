@@ -6,6 +6,10 @@ Grade calculator using qt creator with C++
 
 ---
 
+## Contributors
+
+- Seng Chow Choy <sengchowtech@gmail.com>
+
 ## License & Copyright
 
 © Seng Chow Choy
